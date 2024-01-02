@@ -5,7 +5,7 @@ IMPLEMENTING CRYPTOSYSTEMS
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Usage](#usage)
+
 
 ## Introduction
 
